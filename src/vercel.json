@@ -2,7 +2,7 @@
     "rewrites": [
         {
             "source": "/pages/dashboard.html",
-            "destination": "/"
+            "destination": "/404.html"
         }
     ]
 }

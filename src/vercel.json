@@ -1,7 +1,7 @@
 {
     "rewrites": [
         {
-            "source": "/pages/(.*)",
+            "source": "/pages/dashboard.html",
             "destination": "/404.html"
         }
     ]
